@@ -8,7 +8,7 @@
 
                 <a href="/">
                     <br>
-                    <img src="https://umgnaranjo.com/wp-content/uploads/2018/11/logo.png" width="100" height="100" class="rounded mx-auto d-block" alt="...">
+                    <img src="https://cdn-icons-png.flaticon.com/512/138/138659.png" width="100" height="100" class="rounded mx-auto d-block" alt="...">
                     <br>
                 </a>
 

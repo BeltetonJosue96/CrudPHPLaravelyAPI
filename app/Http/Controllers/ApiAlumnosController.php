@@ -38,7 +38,8 @@ class ApiAlumnosController extends Controller
     public function all(Request $request)
     {
         $tasks = Alumnos::all();
-        return response()->json(['Alumno(a)' => $tasks]);
+        $alumnos = $tasks->values();
+        return response()->json($alumnos);
     }
 
     public function getAlumno(Request $request, int $id)
